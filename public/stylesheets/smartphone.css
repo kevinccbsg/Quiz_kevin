@@ -13,3 +13,7 @@ body {
 footer, input {
 	font-size: large;
 }
+img {
+	width: 120px;
+	height: 150px;
+}
